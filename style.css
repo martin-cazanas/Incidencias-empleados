@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(101, 38, 219, 0.609);
+}
+img[alt="icono"]{
+    padding-left: 10px;
+}
+a#inicio:link{
+    text-decoration: none;
+}
